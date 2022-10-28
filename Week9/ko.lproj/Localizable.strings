@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  Week9
+
+  Created by Mac Pro 15 on 2022/10/27.
+  
+*/
+
+/*체크포인트
+ -.역할별 구분해서 작성하기. 안그러면 많아졌을때 구분 어려움.
+ -.세미콜론 잊지말고 꼭 쓰기
+ */
+
+"navigation_title" = "나의 다이어리";
+
+"common_cancel" = "취소";
+
+"search_placeholder" = "영화를 검색해보세요";
+
+"main_age_placeholder" = "나이를 입력해보세요";
+
+"introduce" = "저는 %@ 입니다"; //매개변수 사용: %@
+
+"number_test" = "저는 %lld살입니다."; //매개변수 사용: %lld
+

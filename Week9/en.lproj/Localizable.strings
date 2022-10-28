@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Week9
+
+  Created by Mac Pro 15 on 2022/10/27.
+  
+*/
+
+"navigation_title" = "My Diary";
+
+"common_cancel" = "Cancel";
+
+"search_placeholder" = "Search Movies";
+
+"main_age_placeholder" = "Enter Your Age";
+
+"introduce" = "my name is %@"; //매개변수 사용: %@
+
+"number_test" = "I am %lld years old."; //매개변수 사용: %lld
